@@ -1,4 +1,4 @@
-# DEveloped by: Kothai K 
+# Developed by: Kothai K 
 # Reg no: 212222240051
 # Ex.No: 07                                       AUTO REGRESSIVE MODEL
 ### Date: 
